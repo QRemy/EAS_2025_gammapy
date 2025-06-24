@@ -14,4 +14,4 @@ Now you have a local copy of the repository. In order to get new changes you jus
 
 `git pull`
 
-The solution of the excercise in the notebooks will be uploaded during the session.
+The solution of the exercises in the notebooks will be uploaded during the session.
