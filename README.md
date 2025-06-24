@@ -4,4 +4,4 @@ Tutorials on very-high-energy data analysis with gammapy for the hands-on sessio
 First step is to install gammapy:
 https://docs.gammapy.org/1.3/getting-started/index.html#recommended-setup
 
-Then check the notebooks !
+Then download the notebooks !
